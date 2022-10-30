@@ -14,7 +14,7 @@ export function App() {
       <Header />
 
       <h2>
-        Contetudo...
+        Contetudo 2...
       </h2>
 
       <Footer />

@@ -39,7 +39,7 @@ export const TaskList = ({taskList}:Props) => {
           </div>
         ))
       ) : (
-        <p>Não tem tarefas cadastradas!</p>
+        <p className='text-zinc-500'>Não tem tarefas cadastradas!</p>
       )}
 
     </>
